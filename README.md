@@ -19,11 +19,12 @@
 
 ---
 
-### 🚀 My Tech Stack
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode" />
 </p>
+
 
 ---
 
@@ -53,11 +54,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode" />
-</p>
 
 
 ---
