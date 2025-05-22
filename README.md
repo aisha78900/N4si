@@ -2,8 +2,9 @@
 <h3 align="center">Frontend Developer | UI Lover | Clean Code Advocate</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKx8pX2CGbdyV72/giphy.gif" alt="Cartoon boy scrolling laptop" width="300" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Coding_mascot.svg/300px-Coding_mascot.svg.png" alt="Cartoon boy with glasses using laptop" width="300" />
 </p>
+
 
 ---
 
