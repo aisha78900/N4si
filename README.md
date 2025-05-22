@@ -2,9 +2,8 @@
 <h3 align="center">Frontend Developer | UI Lover | Clean Code Advocate</h3>
 
 <p align="center">
-  <img src="https://github.com/aisha78900/N4si/blob/main/girl-using-computer-home-cartoon-style_1057-87842-removebg-preview.png?raw=true?raw=true" alt="Programmer Image" width="300" />
+  <img src="https://github.com/aisha78900/N4si/blob/main/girl-using-computer-home-cartoon-style_1057-87842-removebg-preview.png?raw=true" alt="Programmer Image" width="300" />
 </p>
-
 
 ---
 
@@ -25,18 +24,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode" />
 </p>
 
-
 ---
 
-### 📈 GitHub Stats
+### 🎯 Current Focus & Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=default&hide_border=true" />
-</p>
+- Improving TypeScript skills and building projects with Next.js  
+- Learning advanced React patterns and hooks  
+- Contributing to open-source regularly  
+- Growing as a UI/UX advocate and accessibility champion  
 
 ---
 
@@ -54,12 +49,6 @@
 
 ---
 
-
-
-
----
-
 <p align="center"><i>“Built with code, styled with love, and powered by endless cups of tea.” ☕💖</i></p>
-
 
 
