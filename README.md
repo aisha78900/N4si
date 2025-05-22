@@ -14,7 +14,7 @@
 - 🔥 I speak React, Tailwind, and JavaScript fluently (with a constant cup of tea ☕)  
 - 🚧 Currently exploring: TypeScript & Next.js  
 - 🌍 Based in Pakistan — available for remote collaborations  
-- 📬 Let’s connect: **ayesha.dev@example.com**
+- 📬 Let’s connect: **ayesha7890@gmail.com**
 
 ---
 
