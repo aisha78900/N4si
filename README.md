@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | UI Lover | Clean Code Advocate</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aisha78900/N4si/1c3564c7ede86586a3099a1470b6329b26079603/images.jpeg?raw=true" alt="Programmer Image" width="300" />
+  <img src="https://github.com/aisha78900/N4si/blob/main/girl-using-computer-home-cartoon-style_1057-87842-removebg-preview.png?raw=true?raw=true" alt="Programmer Image" width="300" />
 </p>
 
 
