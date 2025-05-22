@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | UI Lover | Clean Code Advocate</h3>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" alt="Cartoon coder" width="200" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Programmer at laptop" width="300" />
 </p>
 
 ---
@@ -53,3 +53,4 @@
 ---
 
 <p align="center"><i>“Built with code, styled with love, and powered by endless cups of tea.” ☕💖</i></p>
+
