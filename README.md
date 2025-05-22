@@ -2,9 +2,8 @@
 <h3 align="center">Frontend Developer | UI Lover | Clean Code Advocate</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Coding_mascot.svg/300px-Coding_mascot.svg.png" alt="Cartoon boy with glasses using laptop" width="300" />
+  <img src="https://raw.githubusercontent.com/aisha78900/N4si/1c3564c7ede86586a3099a1470b6329b26079603/images.jpeg?raw=true" alt="Programmer Image" width="300" />
 </p>
-
 
 
 ---
