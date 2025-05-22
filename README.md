@@ -53,6 +53,15 @@
 
 ---
 
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode" />
+</p>
+
+
+---
+
 <p align="center"><i>“Built with code, styled with love, and powered by endless cups of tea.” ☕💖</i></p>
 
 
