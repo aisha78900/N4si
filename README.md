@@ -8,10 +8,10 @@
 ---
 
 ### 🧑‍💻 About Me:
-- 🔭 I’m currently working on **[Your Project/Company Name]**
+- 🔭 I’m currently working on **[Haptex]**
 - 🌱 I’m currently learning **Next.js, TypeScript**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Git**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[Aisha7890@gmail.com]**
 - ⚡ Fun fact: *I debug with chai in hand ☕*
 
 ---
