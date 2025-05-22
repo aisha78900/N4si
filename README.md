@@ -1,40 +1,58 @@
-# Hi, I'm Ayesha 👋
-
-## 👩‍💻 Web Developer | JavaScript | React | HTML & CSS
+<h1 align="center">Hey there 👋 I'm Ayesha</h1>
+<h3 align="center">Frontend Developer | UI Lover | Clean Code Advocate</h3>
 
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/vector-illustration-boy-with-glasses-working-laptop-computer_151607375.jpg" alt="Cartoon boy with glasses using laptop" width="300" />
+  <img src="https://media.giphy.com/media/3o7TKx8pX2CGbdyV72/giphy.gif" alt="Cartoon boy scrolling laptop" width="300" />
 </p>
 
 ---
 
-### About Me
-I'm a passionate web developer with experience in building responsive, user-friendly websites and applications. I specialize in JavaScript frameworks like React, with strong skills in HTML5 and CSS3.
+### ✨ About Me
+
+- 💻 I build responsive websites that actually *look good*  
+- 🧠 Obsessed with clean design, smooth interactions & semantic HTML  
+- 🔥 I speak React, Tailwind, and JavaScript fluently (with a constant cup of tea ☕)  
+- 🚧 Currently exploring: TypeScript & Next.js  
+- 🌍 Based in Pakistan — available for remote collaborations  
+- 📬 Let’s connect: **ayesha.dev@example.com**
 
 ---
 
-### Skills
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frameworks:** React.js, Node.js
-- **Tools:** Git, VSCode, Chrome DevTools
-- **Other:** Responsive Design, REST APIs, Agile Workflow
+### 🚀 My Tech Stack
 
----
-
-### Contact Me
-- 📧 Email: ayesha@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/ayesha](https://linkedin.com/in/ayesha)  
-- 🐦 Twitter: [@ayesha_dev](https://twitter.com/ayesha_dev)  
-
----
-
-### Fun fact ☕
-I love coding as much as I love my morning cup of tea!
-
----
-
-<p align="center">  
-  Made with ❤️ by Ayesha  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode" />
 </p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=default&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ayesha.dev@example.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>“Built with code, styled with love, and powered by endless cups of tea.” ☕💖</i></p>
+
 
 
