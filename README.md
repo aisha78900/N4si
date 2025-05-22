@@ -1,49 +1,55 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Web Developer from [Your Country]</h3>
+<h1 align="center">Hey there 👋 I'm Ayesha</h1>
+<h3 align="center">Frontend Developer | UI Lover | Clean Code Advocate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Web+Developer;Frontend+Specialist;Love+React+%26+Tailwind;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" alt="Cartoon coder" width="200" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me:
-- 🔭 I’m currently working on **[Haptex]**
-- 🌱 I’m currently learning **Next.js, TypeScript**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Git**
-- 📫 How to reach me: **[Aisha7890@gmail.com]**
-- ⚡ Fun fact: *I debug with chai in hand ☕*
+### ✨ About Me
+
+- 💻 I build responsive websites that actually *look good*  
+- 🧠 Obsessed with clean design, smooth interactions & semantic HTML  
+- 🔥 I speak React, Tailwind, and JavaScript fluently (with a constant cup of tea ☕)  
+- 🚧 Currently exploring: TypeScript & Next.js  
+- 🌍 Based in Pakistan — available for remote collaborations  
+- 📬 Let’s connect: **ayesha.dev@example.com**
 
 ---
 
-### 🛠️ Languages & Tools:
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode,figma" />
-</p>
+### 🚀 My Tech Stack
 
----
-
-### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="Streak stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="30" width="30" /></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" /></a>
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=default&hide_border=true" />
 </p>
 
 ---
 
-### 📝 Latest Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- Replace with your blog posts using GitHub action or static links -->
-- [Title 1](#)
-- [Title 2](#)
-<!-- BLOG-POST-LIST:END -->
+### 🤝 Let’s Connect
 
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ayesha.dev@example.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>“Built with code, styled with love, and powered by endless cups of tea.” ☕💖</i></p>
